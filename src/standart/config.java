@@ -10,9 +10,9 @@ public class config {
 	
 	public config()
 	{
-		this.dbname="c5search";
-		this.login="c5search";
-		this.password="123456";
+		this.dbname="";
+		this.login="";
+		this.password="";
 		this.server="localhost";
 		this.Streams=5;
 	}
